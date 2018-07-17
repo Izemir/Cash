@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Cash</string>
+    <string name="ButtonText">Сегодня</string>
+    <string name="Summ">0</string>
 </resources>
