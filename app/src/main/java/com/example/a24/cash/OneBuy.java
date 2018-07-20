@@ -11,6 +11,10 @@ public class OneBuy {
         this.money=money;
     }
 
+    public String getMoneyString() {
+        return String.valueOf(money);
+    }
+
     public int getMoney() {
         return money;
     }
